@@ -10,10 +10,10 @@ import Logo from "../images/airbnb-logo.png";
 export default function Navbar() {
   return (
     
-    <div>
+   
       <nav>
-<img src={Logo} alt="" />
+        <img src={Logo} alt="" />
       </nav>
-    </div>
+    
   )
 }
